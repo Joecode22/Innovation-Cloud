@@ -1,6 +1,6 @@
 # Codecademy Example - Innovation Cloud Conference Website
 
-![Replace with your image](link-to-your-image.jpg)
+![Website Image](https://github.com/Joecode22/Innovation-Cloud/assets/93625431/7d19474b-a884-4f45-80f1-98155eae090f)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
